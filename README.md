@@ -11,4 +11,6 @@ Um professor da UVV, muito fã de RPG, decidiu construir um aplicativo para troc
 Crie um aplicativo usando React Native, com o Expo, propondo um componente para o cartão do jogo. Além disso, crie pelo menos 3 cartões diferentes para exemplificar o uso do cartão.
 
 ## Respostas estão nos files: 
-"index.js", "styles.js" e "App.js"
+ - "index.js",
+ - "styles.js",
+ -  "App.js".
